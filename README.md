@@ -12,3 +12,7 @@ https://github.com/valory-xyz/mech
 ## On-chain components
 
 https://github.com/valory-xyz/ai-registry-mech
+
+## Subgraph
+
+https://github.com/valory-xyz/ai-registry-mech-graph
